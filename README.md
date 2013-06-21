@@ -18,3 +18,15 @@ As ever, many eyes are better than one. Sit down and read through five random po
 I wrote a set of Ruby scripts to fetch the data, parse it, and convert it into the various formats. The scripts are included, but are a bit messy right now. I hope to get time to clean them up a bit to make it easier for others to use. I also used the excellent [Pandoc](http://johnmacfarlane.net/pandoc/) to convert between formats, so you will need to have that installed on your system if you wish to do the same.
 
 Happy reading! This is my small [#pdftribute](http://pdftribute.net/) to Aaron.
+
+## 日本語訳のメモ
+
+翻訳の練習もかねて､26歳で自らの命を断ったアーロン・シュルツ氏のブログを訳しています｡
+
+1. 古い投稿から順番に訳す
+2. ｢である｣調で訳す
+3. 原文から日本語訳文へリンクがある場合はそちらを優先する
+3. 原文も訳文ファイルに残す
+4. タイトルは `[訳題]([原題])`の書式にする
+
+翻訳への指摘､ご意見などありましたら[Twitter](http://twitter.com/harupong/)でご連絡いただければ幸いです｡
