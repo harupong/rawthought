@@ -1,7 +1,4 @@
-<!--
-What’s Going On Here?
--->
-このサイトに起こったことの顛末(原題:What’s Going On Here?)
+このサイトに起こったことの顛末(What’s Going On Here?)
 =====================
 
 May 15, 2005
