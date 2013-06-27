@@ -16,7 +16,7 @@ into it, the more that the facts aligned with those who said Jesus was
 just a legendary character. The shaky evidence and the poor reasoning
 were actually on the side of those who said that Jesus did exist.”
 -->
-｢イエス・キリストなんて人は存在しなかった､という思いつきについて､調べ物をしていたんだ｡はじめは､的外れな話で誰も信じやしないと思っていた｡｣映画監督ブライアン・フレミングはこう続けた｡｢ところが､意外にもその思いつきを裏付ける証拠がどんどん出てきてさ｡調べれば調べるほど､イエス・キリストなんて空想の産物に過ぎないとする証拠が出てきた｡実際のところ怪しい証拠や胡散臭い理屈を振りかざしていたのは､イエス・キリストが存在したと主張してきた人たちだったんだ｣
+｢イエス・キリストなんて人は存在しなかった､という思いつきについて､調べ物をしていたんだ｡はじめは､的外れな話で誰も信じやしないと思っていた｡｣映画監督Brian Flemmingはこう続けた｡｢ところが､意外にもその思いつきを裏付ける証拠がどんどん出てきてさ｡調べれば調べるほど､イエス・キリストなんて空想の産物に過ぎないとする証拠が出てきた｡実際のところ怪しい証拠や胡散臭い理屈を振りかざしていたのは､イエス・キリストが存在したと主張してきた人たちだったんだ｣
 
 <!--
 And so Flemming (*Bat Boy: The Musical*, *Nothing So Strange*, *Fair &
@@ -25,7 +25,7 @@ movie. The result, which is currently being screened across the country
 in theaters and at atheist organizations and will be released on DVD
 soon, is a shockingly good film.
 -->
-そこでフレミング(ミュージカル*Bat Boy: The Musical*､映画*Nothing So Strange*の監督であり､書籍*Fair & Balanced*の著者｡また､オープンソース活動家でもある)は､このテーマに基づいた映画を撮ることにした｡出来上がったもの(いまアメリカ中の映画館などで上映されてる)は､衝撃的なくらい良い映画だった｡
+そこでFlemming(ミュージカル*Bat Boy: The Musical*､映画*Nothing So Strange*の監督であり､書籍*Fair & Balanced*の著者｡また､オープンソース活動家でもある)は､このテーマに基づいた映画を撮ることにした｡出来上がったもの(いまアメリカ中の映画館などで上映されてる)は､衝撃的なくらい良い映画だった｡
 
 <!--
 Flemming begins at the beginning: the popular story of Jesus. In a
@@ -36,7 +36,7 @@ illustrated with entertaining graphics, he tries to reconstruct the
 historical evidence for the story…only to find there isn’t much and a
 lot doesn’t add up.
 -->
-映画では､フレミングはまずイエス・キリストにまつわる有名な逸話に触れる｡Prelinger archivesから取ってきたのだろう古い映像を面白おかしく組み合わせ､抑揚のないナレーションで､ざっと６分くらいでその逸話を紹介｡続いてそれの嘘を次々と暴いていく｡専門家へのインタビュー､目を引く図や絵を用い､彼はその逸話を成立させるべく史実を組み上げていくのだが､結局､史実なんてものはあまりなくて､大した証拠にはならないことが判明する｡
+映画では､Flemmingはまずイエス・キリストにまつわる有名な逸話に触れる｡Prelinger archivesから取ってきたのだろう古い映像を面白おかしく組み合わせ､抑揚のないナレーションで､ざっと６分くらいでその逸話を紹介｡続いてそれの嘘を次々と暴いていく｡専門家へのインタビュー､目を引く図や絵を用い､彼はその逸話を成立させるべく史実を組み上げていくのだが､結局､史実なんてものはあまりなくて､大した証拠にはならないことが判明する｡
 
 <!--
 Convinced the story is wrong, Flemming takes aim at the right-wing
@@ -45,7 +45,7 @@ moderates who enable them, and the rest of the system. He concludes by
 heading back home to the fundamentalist Christian school he attended as
 a child to confront the principal about what he’s teaching children.
 -->
-イエス・キリストにまつわる逸話が誤りであることに確信を得たフレミングは､続いて､その逸話に基いて活動する右翼のキリスト教原理主義者､彼らを支援する日和見なキリスト教穏健派などに的を絞っていく｡結論を出すべく､フレミングは彼が子どもの頃通ったキリスト教原理主義系の学校に出向き､同校の校長と授業内容について議論を交わすことに...
+イエス・キリストにまつわる逸話が誤りであることに確信を得たFlemmingは､続いて､その逸話に基いて活動する右翼のキリスト教原理主義者､彼らを支援する日和見なキリスト教穏健派などに的を絞っていく｡結論を出すべく､Flemmingは彼が子どもの頃通ったキリスト教原理主義系の学校に出向き､同校の校長と授業内容について議論を交わすことに...
 
 <!--
 Flemming’s previous film, *Nothing So Strange* ([which I also
@@ -59,7 +59,7 @@ the interviews down to the promotional posters, hangs together so well
 that it’s hard to believe Flemming is doing this all himself, but
 apparently he is, with no liberal atheist conspiracy to back him.
 -->
-フレミングの前作である *Nothing So Strange* ([当時書いたレビュー](http://www.aaronsw.com/weblog/001102))は面白かったけど､控えめに言っても素人くさい感じだった｡
+Flemmingの前作である *Nothing So Strange* ([当時書いたレビュー](http://www.aaronsw.com/weblog/001102))は面白かったけど､控えめに言っても素人くさい感じだった｡
 
 (Although, in full disclosure, Larry Lessig and former Creative Commons
 executive director Glenn Otis Brown receive special thanks in the
