@@ -1,4 +1,4 @@
-The Intentionality of Evil
+悪意の本質(The Intentionality of Evil)
 ==========================
 
 June 23, 2005
@@ -19,6 +19,7 @@ more nuanced than that, we’re told — but this isn’t actually the problem
 with these stories. The problem is that the villains *know* they’re
 evil.
 -->
+僕らは子どもの頃から､勇者が悪者から地球を救うストーリーの漫画(最近は､そんなマンガを元にした映画もよくある)を与えられて育ってきている｡そのせいで､僕らが善と悪を白黒はっきり区別しすぎてしまう傾向があるってことは､もはや社会通念と言ってもいいくらいだ｡世界はもっとあいまいなんだよ､と上から目線で諭されたりするわけで｡けど､そんな漫画が持つ問題の本質はそこじゃない｡問題は､漫画上の悪役は自分たちのことを悪役と認識してる､という設定にこそある｡
 
 <!--
 And people really grow up thinking things work this way: evil people
@@ -29,6 +30,7 @@ convince yourself you’re good — but every major villain had some
 justification to explain why what they were doing was good. *Everybody*
 thinks they’re good.
 -->
+そして人々は､｢悪いやつはわざと悪いことをするんだ｣と思い込んで成長していく｡けど､それって全然現実的じゃない｡そもそも不可能なのかもしれないし､自分は善だと思い込む方が簡単で楽なのかもしれないけれど､ともかく､悪事に手を染めてる､と思ってる人なんていない｡主だった悪役たちはみな､自分だちがやっていることが善なんだという理屈を胸に抱いている｡*みんな*､自分は善だと思ってる｡
 
 <!--
 And if that’s the case, then intentionality doesn’t really matter. It’s
@@ -37,6 +39,7 @@ bankers were just doing their jobs, convinced that they were helping the
 poor or something, because everybody thinks they’re just doing their
 jobs; Eichmann thought he was just doing his job.
 -->
+そしてそれがもし事実なら､意図なんてものはどうでもよくなる｡ウォール・ストリートの金融屋たちが｢自分たちの仕事が貧困を解決するに違いない｣とか信じて自分の仕事をやりました､なんて言ったところで何の弁明にもならない(最近､そんな話あったよね)｡理由はもちろん､皆がそんな風に｢自分の仕事をやりました｣って思ってるから｡Eichmannだって､｢自分の仕事をやりました｣って考えてた｡
 
 <!--
 Eichmann, of course, is the right example because it was Hannah Arendt’s
@@ -45,6 +48,7 @@ famously cited for this thesis. Eichmann, like almost all terrorists and
 killers, was by our standards a perfectly normal and healthy guy doing
 what he thought were perfectly reasonable things.
 -->
+Eichmann
 
 <!--
 And if that normal guy could do it, so could we. And while we could
