@@ -1,4 +1,4 @@
-悪意の本質(The Intentionality of Evil)
+悪意の有無は無意味(The Intentionality of Evil)
 ==========================
 
 June 23, 2005
@@ -30,7 +30,7 @@ convince yourself you’re good — but every major villain had some
 justification to explain why what they were doing was good. *Everybody*
 thinks they’re good.
 -->
-そして人々は､｢悪いやつはわざと悪いことをするんだ｣と思い込んで成長していく｡けど､それって全然現実的じゃない｡そもそも不可能なのかもしれないし､自分は善だと思い込む方が簡単で楽なのかもしれないけれど､ともかく､悪事に手を染めてる､と思ってる人なんていない｡主だった悪役たちはみな､自分だちがやっていることが善なんだという理屈を胸に抱いている｡*みんな*､自分は善だと思ってる｡
+そうして人々は､｢悪いやつはわざと悪いことをするんだ｣と思い込んで成長していく｡けど､それって全然現実的じゃない｡そもそも意図して悪役になることが不可能なのかもしれないし､自分は善だと思い込む方が簡単で楽なのかもしれないけれど､ともかく､悪役をやっている､と意識してる人なんていない｡主だった悪役たちはみな､自分だちがやっていることが善なんだという理屈を胸に抱いている｡*みんな*､自分は善だと思ってる｡
 
 <!--
 And if that’s the case, then intentionality doesn’t really matter. It’s
@@ -48,7 +48,7 @@ famously cited for this thesis. Eichmann, like almost all terrorists and
 killers, was by our standards a perfectly normal and healthy guy doing
 what he thought were perfectly reasonable things.
 -->
-Eichmann
+こういった命題について､Eichmannほどぴったりな例はない｡なんといっても､この類の話ではいつもHannah Arendtの本 *Eichmann in Jerusalem: A Report on the Banality of Evil* が決まって引き合いに出されるし｡また､世のテロリストや殺人鬼の例に漏れず､Eichmannは世の中の常識と照らしあわせても真っ当･健全だったし､自ら理にかなってると考えたことを実行していたのだから｡
 
 <!--
 And if that normal guy could do it, so could we. And while we could
@@ -56,9 +56,11 @@ argue who’s worse — them or us — it’s a pointless game since its *our*
 actions that we’re responsible for. And looking around, there’s no
 shortage of monstrous crimes that we’ve committed.
 -->
+そして､そんな真っ当な男がなし得るのだから､僕らにだってできるはず｡もちろん､彼らと僕ら､どっちがひどいか比べてみてもいいけど､僕らが責任を負うべきは*自らの*行動なのだから､そんな比較は無意味だ｡少し考えれば､僕らが犯してきた世にも恐ろしい悪事の数々なんていくらでも出てくるわけだし｡
 
 <!--
 So the next time you mention one to someone and they reply “yes, but we
 did with a good intent” explain to them that’s no defense; the only
 people who don’t are characters in comic books.
 -->
+だから､今後あなたがそんな人たちを咎めようとして｢分かってます｡けれど､僕らは良かれと思って行動したんです｣なんて返事があったら､それが言い訳にもならない理由を説明してあげて｡そうじゃないのは漫画のキャラクターくらいだよ､って｡
