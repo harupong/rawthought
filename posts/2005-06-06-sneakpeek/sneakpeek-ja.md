@@ -1,4 +1,4 @@
-Sneak Peek
+予告編(Sneak Peek)
 ==========
 
 June 6, 2005
@@ -11,10 +11,12 @@ June 6, 2005
 VOICEOVER: *Aaron Swartz: The Stanford Diaries* will return in
 September. Here’s a sneak preview of what to expect next season.
 -->
+音声案内：*Aaron Swartz: The Stanford Diaries* は9月に新シリーズ公開予定！予告編をお届けします｡
 
 <!--
 KIEFER SUTHERLAND appears in a completely black room.
 -->
+真っ暗の部屋に浮かび上がるKIEFER SUTHERLANDの姿｡
 
 <!--
 KIEFER: Hi, I’m Kiefer Sutherland. You might know me better as Aaron
@@ -24,6 +26,8 @@ all there is to the story. Next year, I again play Aaron Swartz in
 *Aaron Swartz: The Stanford Diaries*, but this time there’s a whole lot
 more to the story.
 -->
+KIEFER：どうも､Kiefer Sutherlandです｡*Aaron Swartz: The Stanford Diaries*のAaron
+Swartzと言ったほうが分かる人もいるでしょう｡
 
 <!--
 > AARON SWARTZ and UNSEEN TEACHER meet in a parking garage. Teacher
