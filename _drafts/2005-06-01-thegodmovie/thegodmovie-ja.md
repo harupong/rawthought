@@ -1,11 +1,12 @@
-The God Who Wasn’t There (And The One Who Was)
-==============================================
+---
+layout: post
+title:  "The God Who Wasn’t There (And The One Who Was)"
+date:   2005/06/01 00:00
+---
 
-June 1, 2005
+Original: [The God Who Wasn’t There (And The One Who Was)](http://www.aaronsw.com/weblog/thegodmovie)
 
-[Original link](http://www.aaronsw.com/weblog/thegodmovie)
-
-* * * * *
+----------
 
 <!--
 “I was doing some research into the idea that Jesus never existed. When
@@ -59,14 +60,18 @@ the interviews down to the promotional posters, hangs together so well
 that it’s hard to believe Flemming is doing this all himself, but
 apparently he is, with no liberal atheist conspiracy to back him.
 -->
-Flemmingの前作である *Nothing So Strange* ([当時書いたレビュー](http://www.aaronsw.com/weblog/001102))は面白かったけど、控えめに言っても素人くさい感じだった。
+Flemmingの前作である *Nothing So Strange* ([当時書いたレビュー](http://www.aaronsw.com/weblog/001102))は面白かったけど、控えめに言っても素人くさい感じだった。けど、今作は大違い。これまで見てきたドキュメンタリーのなかでも絵は最上級だったし、無名の DJ Madson (Flemming の音楽活動用の偽名だと思ってるんだけど。)が人気のアーティストたちをリミックスした Wired という CD (クリエイティブ・コモンズでライセンスされてる)から採られた音楽もとてもよかった。インタビューに始まって宣伝用のパスタ～に至るまで、もう全てがよくまとまっていて、リベラルな無神論者たちの支援もなしに、Flemming が全部一人でやってるとは信じられないくらい。
 
+<!--
 (Although, in full disclosure, Larry Lessig and former Creative Commons
 executive director Glenn Otis Brown receive special thanks in the
 credits. And in a remote Q&A via iChat after the screening here at
 Stanford, Flemming was wearing a Creative Commons shirt. So if you want
 to investigate a conspiracy, that’s where I’d look.)
+-->
+(とはいえ、隠さずに言うと、Larry Lessig と Glenn Otis Brown(クリエイティブ・コモンズ・ライセンスの前責任者)には謝辞が送られてた。あと、スタンフォードでの上映会後の iChat を使った質疑応答のとき、Flemmingはクリエイティブ・コモンズのTシャツを来てたね。もし陰謀を疑いたいなら、その辺が怪しそう。)
 
+<!--
 On the other hand, Flemming has always had what Bill O’Reilly might call
 a “parasitic” sense of self-promotion. His film *Nothing So Strange*
 received press largely because it included scenes of Bill Gates being
@@ -77,6 +82,8 @@ thinking he’d draw support away from the actual governor.) When FOX sued
 Al Franken for using the phrase “Fair and Balanced”, Flemming wrote a
 play with the name. When Arnold Schwarzenegger sued the makers of a
 bobblehead version of him, Flemming posted a photo of Arnold’s penis.
+-->
+とはいえ、そもそも Flemming は 宣伝がとてもがとてもうまい、Bill O’Reilly だったら parasitic とでも評しそうだけど。彼の前作 *Nothing So Strange* があれほど注目されたのも、Bill Gates が暗殺されるシーンがあったからだし。他にも、カリフォルニア州知事のリコール選挙のときなんて、
 
 Both times, he insisted the works were a form of political protest, but
 he still charged money for the products. He did the same when he
