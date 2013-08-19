@@ -6,7 +6,7 @@ date:   2005/06/01 00:00
 
 Original: [Getting Back On Track](http://www.aaronsw.com/weblog/metamake)
 
-* * * * *
+----------
 
 <!--
 Just how crazy am I? Well, tonight I wrote my own weblogging system. One
