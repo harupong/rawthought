@@ -2,6 +2,9 @@ name: RAW THOUGHT
 markdown: redcarpet
 pygments: true
 
+exclude: [Rakefile]
+keep_files:  ['.git','.svn']
+
 # http://jekyllrb.com/docs/github-pages/#project_pages
 baseurl:     /rawthought
 
