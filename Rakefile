@@ -1,5 +1,4 @@
 JEKYLL_DIR = "_site"
-
 directory JEKYLL_DIR
 desc 'Build jekyll site and publish to GitHub Pages'
 task :publish => JEKYLL_DIR do
@@ -7,8 +6,10 @@ task :publish => JEKYLL_DIR do
   sh "jekyll build"
   sh "git commit -a -m \"Add new post\""
   sh "git push origin jekyll-source"
-  sh "cd #{JEKYLL_DIR}/"
-  sh "ls"
-#  sh "git commit -a -m \"Publish new post\""
-#  sh "git push origin gh-pages"
+
+  cd "#{JEKYLL_DIR}" do
+    sh "git commit -a -m \"Publish new post\""
+    sh "git push origin gh-pages"
+  end
+
 end
