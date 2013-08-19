@@ -2,7 +2,7 @@ name: RAW THOUGHTs
 markdown: redcarpet
 pygments: true
 
-exclude: [Rakefile]
+exclude: ['Rakefile' , '.git', '.gitignore']
 keep_files:  ['.git','.svn']
 
 # http://jekyllrb.com/docs/github-pages/#project_pages
