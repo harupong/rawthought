@@ -1,6 +1,6 @@
 # Raw Thought: The Weblog of Aaron Swartz in Japanese
 
-Aaron Swartzさんの[ブログ記事](http://aaronsw.com/weblog)の日本語訳プロジェクトです。26歳で自らの命を断った天才プログラマー､アーロン・シュルツ氏のブログを訳しています｡
+Aaron Swartzさんのブログ日本語訳プロジェクトです。26歳で自らの命を断った天才プログラマー、Aaron Swartzさんのブログ [Raw Thought](http://aaronsw.com/weblog) を訳しています｡
 
 同ブログより生成された [Markdown](https://github.com/joshleitzel/rawthought) ファイルを原稿に、翻訳を進めていきます。
 
