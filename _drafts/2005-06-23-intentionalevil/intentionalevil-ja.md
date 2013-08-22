@@ -1,11 +1,12 @@
-悪意の有無は無意味(The Intentionality of Evil)
-==========================
+---
+layout: post
+title:  "悪意の有無は無意味"
+date:   2005/06/23 00:00
+---
 
-June 23, 2005
+Original: [The Intentionality of Evil](http://www.aaronsw.com/weblog/intentionalevil)
 
-[Original link](http://www.aaronsw.com/weblog/intentionalevil)
-
-* * * * *
+----------
 
 [ **English** | [中文](http://aaronsw.com/weblog/intentionalevil.zh) |
 [Deutsch](http://aaronsw.com/weblog/intentionalevil.de) ]
