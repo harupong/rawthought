@@ -17,7 +17,7 @@ The most important of which is that economist Stephen Levitt simply does
 not appear to care — or even notice — if his work involves doing evil
 things.
 -->
-書籍「ヤバい経済学」の誇大広告も異常なほどに溢れちゃってるし(いまや「世界中で大ヒット！」らしく、著者たちは *New York Times Magazine* で記事を書くまでになった。)、そろそろ、メインの書評の方では触れなかったこの本の悪いところについて議論されてもいい頃だと思う。特に議論すべきは、経済学者 Stephen Levitt が自身の仕事を通じての悪事への加担について、意にも介さぬように見える点だ。
+書籍「ヤバい経済学」の誇大広告も異常なほどに溢れちゃってるし(いまや「世界中で大ヒット！」らしく、著者たちは *New York Times Magazine* で記事を書くまでになった。)、そろそろ、メインの書評の方では触れなかったこの本の悪いところについて議論されてもいい頃だと思う。特に議論すべきは、経済学者 Stephen Levitt が自身の取り組みを通じた悪事への加担について、意にも介さぬように見える点だ。
 
 <!--
 The 1960s, as is well-known, had a major civilizing effect on all areas
@@ -46,7 +46,7 @@ their students got. Teachers who decided to buck the system and actually
 have their students learn something worthwhile would get demoted or even
 fired.
 -->
-洗脳機関(特に学校)は役割を果たせていなかったので、基本に返った手法、丸暗記重視・批判的思考力や知的発達軽視を主とした手法が求められていた。そしてそれは、教師・生徒ともに「説明責任」という形で為されることとなった。例えば一斉テスト、これは決められた物事を生徒がどれだけ正確に暗記したかのみを調べるものであって、指示から逸れるのは論外だった。また、教師の業績は生徒のテスト成績で測られていた。制度に背き、有意義なことを生徒に教えようとした教師は、降格させられたり職を失う羽目になった。
+洗脳機関(特に学校)は役割を果たせていなかったので、基本に返った手法、「丸暗記重視」「批判的思考力や知的発達軽視」を主とした手法が求められていた。そしてそれは、教師・生徒ともに「成績ベースの評価方式」という形で為されることとなった。例えば一斉テスト、これは決められた物事を生徒がどれだけ正確に暗記したかのみを調べるものであって、指示から逸れるのは論外だった。また、教師の業績は生徒のテスト成績で測られていた。制度に背き、有意義なことを生徒に教えようとした教師は、降格させられたり職を失う羽目になった。
 
 <!--
 Not surprisingly, as always happens when you make people’s lives depend
@@ -59,7 +59,7 @@ ignore the question of whether helping to get these teachers fired is a
 good idea. Apparently even rogue economists jump when the government
 asks them to.
 -->
-
+そうしてまもなく、教師がズルをし始めた。テストで人を測りだすと必ず起こるので驚くには値しないけど。そして、ここでようやく Levitt 教授のお出ましとなる。彼は、Chicago Public School と契約して、ズルする教師を発見するシステムを構築しようとした。Levitt と共著者は、システムそのものと、収集されたデータからシステムが発見した興味深いパターンについて熱心に説明している。けれど、そもそもの疑問、それらの教師をクビにすることに加担すべきかどうかについては全く触れなかった。三流の経済学者だって、政府に求められればおべっかを並べるというのに。
 
 <!--
 Levitt has a few arguments — teachers were setting students up to fail
@@ -69,6 +69,7 @@ indoctrination of the young or getting teachers fired might not be an
 acceptable area of work, despite being an economist, he never weighs any
 benefits or even considers the costs.
 -->
+生徒が進級するにつれテストで点が取れなくなるように教師は工夫していた、などと Levitt は説明していたけれど、いずれも補足として付け足された内容だった。Levitt は、若者の洗脳や教師をクビにすることへの加担が、取り組みとして適切かどうか考えようともしなかった。経済学者であるにも関わらず、メリットとコストを比較することさえしていない。
 
 <!--
 Levitt, by all appearances, was not, like some of his colleagues, a
@@ -76,3 +77,4 @@ self-conscious participant in this regressive game. He was just a rube
 who got taken in. But surely preventing others from the same fate would
 be a more valuable contribution.
 -->
+自覚があったであろう同僚たちとは違い、この不毛な取り組みへの Levitt の加担が故意でなかったことは明らかだ。彼は世間知らずで、利用されたにすぎない。とはいえ、同じ過ちを繰り返させないような取り組みの方が、価値があったのは間違いない。
