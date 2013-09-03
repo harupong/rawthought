@@ -81,7 +81,7 @@ behavior,” she began. Oh, this wasn’t going to be good.
 *I cried when you left me,\
  now I’m wondering when you’ll make it all up to me?*
 
-She said she’d been tipped off by my IHUM TF, which was odd, since we’d
+She said she’d been tipped off by my IHUM TF(訳注：http://www.stanforddaily.com/2012/03/09/farewell-to-ihum/), which was odd, since we’d
 just had a long talk a week ago or so and I thought we’d worked
 everything out. Not that there really was a whole lot to work out.
 Actually, that talk probably just made it worse.
