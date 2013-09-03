@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SFP: Dinner with Dan"
+title:  "SFP: Dan との食事"
 date:   2005/06/16 00:00
 ---
 
