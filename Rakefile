@@ -6,7 +6,7 @@ task :setup do
   sh 'git clone -b gh-pages git@rawthought:harupong/rawthought.git _deploy'
 end
 
-desc 'deploy to production'
+desc 'jekyll build and deploy to harupong.com/rawthought'
 task :deploy do
   sh 'jekyll build'
   sh 'rm -rf _deploy/*'
