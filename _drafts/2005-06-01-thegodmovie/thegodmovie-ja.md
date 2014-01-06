@@ -26,7 +26,7 @@ movie. The result, which is currently being screened across the country
 in theaters and at atheist organizations and will be released on DVD
 soon, is a shockingly good film.
 -->
-そこでFlemming(ミュージカル*Bat Boy: The Musical*、映画*Nothing So Strange*の監督であり、書籍*Fair & Balanced*の著者。また、オープンソース活動家でもある)は、このテーマに基づいた映画を撮ることにした。出来上がったもの(いまアメリカ中の映画館などで上映されてる)は、衝撃的なくらい良い映画だった。
+そこでFlemming(ミュージカル *Bat Boy: The Musical*、映画 *Nothing So Strange* の監督であり、書籍 *Fair & Balanced* の著者。また、デジタル著作権の全面的な支持者でもある)は、このテーマに基づいた映画を撮ることにした。出来上がったの(いまアメリカ中の映画館などで上映されてる)は、衝撃的なくらい良い映画だった。
 
 <!--
 Flemming begins at the beginning: the popular story of Jesus. In a
@@ -37,7 +37,7 @@ illustrated with entertaining graphics, he tries to reconstruct the
 historical evidence for the story…only to find there isn’t much and a
 lot doesn’t add up.
 -->
-映画では、Flemmingはまずイエス・キリストにまつわる有名な逸話に触れる。Prelinger archivesから取ってきたのだろう古い映像を面白おかしく組み合わせ、抑揚のないナレーションで、ざっと６分くらいでその逸話を紹介。続いてそれの嘘を次々と暴いていく。専門家へのインタビュー、目を引く図や絵を用い、彼はその逸話を成立させるべく史実を組み上げていくのだが、結局、史実なんてものはあまりなくて、大した証拠にはならないことが判明する。
+映画では、Flemming はまずイエス・キリストにまつわる有名な逸話に触れる。Prelinger archives から取ってきたのだろう古い映像をうまい具合に組み合わせ、抑揚のないナレーションで、ざっと6分くらいでその逸話を紹介。続いてそれの嘘を次々と暴いていく。専門家へのインタビュー、目を引く図や絵を用い、彼はその逸話を成立させるべく史実を組み上げていくのだが、結局、史実なんてものはあまりなくて、大した証拠にはならないことが判明する。
 
 <!--
 Convinced the story is wrong, Flemming takes aim at the right-wing
@@ -69,7 +69,7 @@ credits. And in a remote Q&A via iChat after the screening here at
 Stanford, Flemming was wearing a Creative Commons shirt. So if you want
 to investigate a conspiracy, that’s where I’d look.)
 -->
-(とはいえ、隠さずに言うと、Larry Lessig と Glenn Otis Brown(クリエイティブ・コモンズ・ライセンスの前責任者)には謝辞が送られてた。あと、スタンフォードでの上映会後の iChat を使った質疑応答のとき、Flemmingはクリエイティブ・コモンズのTシャツを来てたね。もし陰謀を疑いたいなら、その辺が怪しそう。)
+(とはいえ、隠さずに言うと、Larry Lessig と Glenn Otis Brown(クリエイティブ・コモンズ・ライセンスの前責任者)には謝辞が送られてた。あと、スタンフォードでの上映会後の iChat を使った質疑応答のとき、Flemmingはクリエイティブ・コモンズのTシャツを来てたね。仮に陰謀を疑うなら、その辺が怪しそう。)
 
 <!--
 On the other hand, Flemming has always had what Bill O’Reilly might call
@@ -83,8 +83,9 @@ Al Franken for using the phrase “Fair and Balanced”, Flemming wrote a
 play with the name. When Arnold Schwarzenegger sued the makers of a
 bobblehead version of him, Flemming posted a photo of Arnold’s penis.
 -->
-とはいえ、そもそも Flemming は 宣伝がとてもがとてもうまい、Bill O’Reilly だったら parasitic とでも評しそうだけど。彼の前作 *Nothing So Strange* があれほど注目されたのも、Bill Gates が暗殺されるシーンがあったからだし。他にも、カリフォルニア州知事のリコール選挙のときなんて、
+とはいえ、そもそも Flemming は自分を売り込むのがとてもうまい。Bill O’Reilly だったら parasitic と評しそうなほどに。彼の前作 *Nothing So Strange* があれほど注目されたのも、Bill Gates が暗殺されるシーンがあったからだ。カリフォルニア州知事のリコール選挙のときなんて、「もし当選したら下りるからな！」論争に真っ先に首を突っ込んでいたし。(そして結果的に Bustamante 副知事が知事になった。当時、知事と距離を置こうと考えていた彼は、知事になることを断っていたし。)。FOX が自社の "Fair and Balanced" というスローガンを盗用されたとして Al Franken を訴えた時、Flemming は実名を使ってパロティを書いてたし、アーノルド・シュワルツェネッガーが自身のフィギュアを作っていた会社を訴えた時、Flemming はアーノルドのペニスの写真を公開してた
 
+<!--
 Both times, he insisted the works were a form of political protest, but
 he still charged money for the products. He did the same when he
 released portions of *Nothing So Strange* under a Creative Commons
@@ -93,7 +94,10 @@ make money off of other people’s support for it. What’s unsettling about
 this film is not how Flemming is using various atheist groups to screen
 and promote it ? that’s perfectly reasonable, especially since he’s
 giving the DVDs to the groups at outrageously low prices.
+-->
+いずれの場合も、彼は自分の取り組みを政治的行為であると主張してたけど、その一方で作品は有料のままだった。クリエイティブ・コモンズライセンスで *Nothing So Strange* の一部を公開したときも、それは変わらなかった。言論の自由を得るには必要なことだ。言論の自由を支持する人たちの取り組みから利益を得ようとするやり方でもあるけど。この映画でどうにも後味が悪かったのは、そんな風に無神論者たちを使って Flemming が映画を宣伝しようとしたことじゃない。そんなのまったく問題じゃない。そもそも、彼はそういった人たちにタダ同然の値段で DVD を譲ってたし。
 
+<!--
 No, what’s unsettling is a hidden feature on Flemming’s site called the
 Grassroots Promotion Team or GPT. In general these things are nothing
 new ? just personally, I remember volunteering for Apple when the iMac
@@ -101,7 +105,10 @@ came out and joining a “Street Team” website to promote a Buffy DVD. The
 idea behind such sites is that your particular group of obsessive lonely
 fans will spend their free time promoting your products on various
 forums and websites in exchange for a chance to win some lame prizes.
+-->
+じゃあ後味の悪さって何よ、というと、それは Flemming のサイトにある隠れ機能、Grassroots Promotion Team(GPT) 、に他ならない。この手の草の根活動はありふれたものだ。自分だって、iMac 発売時に Apple のためにボランティア活動をしたことがあるし、Buffy の DVD を宣伝するためのサイト "Street Team" に参加したこともある。具体的には、そういったサイトは活動にたいして景品を出し、熱心で孤独な一部のファンはそれ欲しさに掲示板やサイトで製品の宣伝をしたりしていた。
 
+<!--
 It’s sad when big corporations do this, but when independent political
 folks like Flemming do it, it becomes a little creepy. It’s also
 problematic. Take the movie’s soundtrack, which is sold on Amazon.
@@ -111,20 +118,32 @@ really good,” I thought. But when I saw Flemming was awarding 100
 “points” for each Amazon review, it suddenly made sense. If everyone
 plays this game, Amazon reviews will quickly become meaningless, which
 is why I don’t think it’s a very good idea to start.
+-->
+大企業にこれをやられるとがっかりだけど、Flemming のような政治活動家が似たようなことをすると、どうも後味が悪いし、それってありなの？って感じがする。例えば Amazon で売ってるあの映画のサントラ。この類の CD って、めったにレビューがつくもんじゃない。でも、このサントラに限っては11もレビューが付いてるし、どれもすごく好意的。「これ絶対いい CD だよ」って思っちゃうくらい。けれど、Flemming 本人がレビュー全部に「100ポイント」付与しているのに気づいて、「あーあ」ってがっかりさせられる。もしみんなが同じようなことをしたら Amazon のレビューが無意味・無価値になっちゃうので、これはやるべきじゃないと思うんだよなぁ。
 
+<!--
 The film is valuable and grassroots promotion of it is certainly a good
 thing. I just wish it felt a little less like using well-meaning people
 to make money for Flemming and a little more like a cooperative
 community with the aim of spreading the Real News.
+-->
+映画自体はとても良い出来だし、口コミプロモーションだって悪いことじゃない。ただ、Flemming が虎の威を借る狐で稼ごうとしてるのがもうちょっと分かりづらくて、コミュニティが真実を拡散させようと協調しているのがもっと伝わると良かったな、と思う。
 
 * * * * *
 
+<!--
 *Brian Flemming responds:*
+-->
+*Brian Flemming 本人からの反応：*
 
+<!--
 Thanks for the kind words about the movie. I agree with some of your
 criticism of the street team, but I think your aim is off the mark with
 much of it.
+-->
+映画についてのお褒めの言葉、どうもありがとう。一方、草の根活動に関する君の指摘。あれの一部には同意するけど、大半は的外れ。
 
+<!--
 1.  AMAZON REVIEWS. There’s an old phrase in publicity, “I don’t care if
     the review is positive or negative, just put the title in the
     headline.” As an indie filmmaker always struggling to get the word
@@ -151,7 +170,10 @@ much of it.
     reason. I’ll freely admit to sending people to Amazon?but my goal is
     battling obscurity, not battling negative opinion. And I certainly
     can’t stop anyone from posting a negative review.
+-->
+1. アマゾンのレビュー。「レビューが好意的か否かは関係ない。ヘッドラインに載りさえすればいいんだ」広告の世界にはこんな言い回しがあってね。インディな映画製作者として、自分が伝えたい内容が資金豊富な他の連中のそれに埋もれないようにするのにいつも苦労してるんだ。だから、さっきの言い回しには全面同意なんだよね。映画の口コミ部隊がアマゾンのレビューを賞賛で埋め尽くすのは、そもそもの意図ではなかったし(ぶっちゃけた話、怒れる1つ星レビューと称賛の5つ星レビューが程よく混ざってる方がいい感じだし。)。著者、出版関係者および近親者がAmazonの書籍レビューを書き連ねてるのは公然の秘密だけど、そんな輪に自分も加わろうとは思ってない。The God Who Wasn’t There のサントラCDのレビューに関しては、称賛の書き込みをお願いしたり、あるいは批判の書き込みを控えるよう頼んだりしたことは一度もないよ(自らレビューを書いたりもしていない)。口コミ部隊はサントラのデータを無料で受け取っていて、Amazon にレビューを書くよう頼みもしたけど、でもそれだけだよ。彼らのうち実際にレビューを書いてくれたのは5%くらい。レビューが称賛でも批判でも、彼らに損得なんて生まれない。彼らのレビューはほんとに丁寧で、ひどいと思うようなものはないけれど、それってすごく自然なことじゃないかな。だって、自分の時間を割いてまで口コミ部隊に入るくらいな人は、きっとその映画やサントラが好きだからそうしてくれるんでしょ。そうはいいつつ、やっぱりレビューは偏ってしまうものだよ。ファンはそうじゃない人たちよりも、積極的にレビューを書いてくれるし。Amazonレビューの大半が好意的なのもそういうことでしょ。Amazonに書き込むよう促したことは認める。けれど、僕の目的は不明瞭な事を明らかにすることであって、否定的な意見を抑えこもうとすることじゃない。それにもちろん、誰かが否定的なレビューを書いたとして、それを止めることは僕にはできないし。
 
+<!--
 2.  THE STREET TEAM ITELF. A “street team” is a group of volunteer
     supporters who distribute flyers and stickers and otherwise spread
     the word about a band or film online and offline. You say, “It’s sad
@@ -175,7 +197,10 @@ much of it.
     question that is nonetheless the third rail of mainstream-media
     conversations about Christianity. Street teams aren’t “creepy,” and
     this one in particular is doing some very real, verifiable good.
+-->
+2. 口コミ部隊そのもの。まず口コミ部隊とは？だけど、パンフレットやステッカーを配ってくれたり、オンライン、オフラインでバンドや映画の話題を広げてくれるボランティアの人たちのことを指してる。それについての君の発言、「大企業にこれをやられるとがっかりだけど、Flemming のような政治活動家が似たようなことをすると、どうも後味が悪いし、それってありなの？って感じがする。」がいかに的外れか、だけど、そもそも、口コミ部隊に対して否定的な態度をとるってことは、地道に活動しているインディーなクリエイターたちの売り込み・プロモーションそのものを否定するってことにほぼ同意だと思ってる。プロモーションは正直で誠実であるべきだけど、かと言ってプロモーションそのものが悪者ってわけじゃない。プロモーションをしかけることだって悪いことじゃない。口コミ部隊を排除することは、競争を放棄して、広告などの金のかかる方法でプロモーションを打つことができる相手に市場を明け渡すことにほかならない。その結果、お金が支える「思い」がより強くなり、情熱が支える「思い」は薄まってしまう。The God Who Wasn’t There の口コミ部隊は、情熱が行動にいたった好例で、それを誇りに思っている。僕が映画の上映権を無料で提供しているから、SF Atheists のようなグループは上映会を通じて1000ドルを売り上げ、とても重要な彼らの取り組みを継続することができる。ボランティアの人たちがネットを利用するのも、草の根活動が容易になるからだ。その結果、キリスト教に関する真っ当な疑問ではあるけど主だったマスコミが触れようとしない、「神が実在したのかどうか」の議論がネット上で沸き起こった。口コミ部隊は「後味が悪く」なんかない。特にこの映画の口コミ部隊は、実益のある良い成果をあげているよ。
 
+<!--
 3.  MONEY. You write that when I attacked Arnold Schwarzenegger and Bill
     O’Reilly via Fair Use Press, I “insisted the works were a form of
     political protest, but [Flemming] still charged money for the
@@ -207,6 +232,9 @@ much of it.
     purpose as the people I’m working side-by-side with. The fact that
     we earn revenue to try to keep the project somewhat self-sustaining
     cannot reasonably be termed exploitation.
+-->
+
+3. お金。Fair Use Press を使って僕がアーノルド・シュワルツェネッガーや Bill O’Reilly を非難したことについての君が書いた一節、「Flemming は自分の取り組みを政治的行為であると主張してたけど、その一方で作品は有料のままだった。クリエイティブ・コモンズライセンスで *Nothing So Strange* の一部を公開したときも、それは変わらなかった。言論の自由を得るには必要なことだ。言論の自由を支持する人たちの取り組みから利益を得ようとするやり方でもあるけど。」。えーっと、こんな風に批判されても、首を傾げるくらいしかできないんだけど。そもそも、Fair Use Press の電子書籍を通じて利益を得たことは一度もないよ。シュワルツェネッガーへの追求のやつは無料だった。高画質な写真つきのプレミアムバージョンは当初1ドルだったけど(この1年くらいは、両方とも無料。)、それだって、フェアユースのためにやったことだし、「非営利です！」と言い訳するためにやったことじゃない。だから、シュワルツェネッガー陣営は僕を訴えなかった。僕が Fair Use Press を使ってやりたかったのはまさにそれ、フェアユースがどこまで有効か試すことだった。
 
 Criticism is a good thing, Aaron, and we free-culture activists of
 course do need to criticize each other where criticism is justified. And
