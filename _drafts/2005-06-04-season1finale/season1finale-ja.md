@@ -36,11 +36,11 @@ cooler, so I don’t think it was really his fault.)
 中1のころ、教室を出て「トラブル解決用紙」に記入するよう先生から言われていたことを思い出す。それは、クラスに秩序をもたらす彼なりのやり方だった。そのやり方を恥ずべき行為だと感じていたので、反抗の意を示すべく無茶苦茶なことを書いて提出した。そしたら、先生に「*君*は人を見下してるのか！」と叱られた。(数年後、彼は、僕の6年生のときの担任と一緒に北アメリカ大陸北西部の山小屋に引っ越した。その後復職した際、彼は冷静さを取り戻したようにみえたので、ひょっとしたら諸々の原因は彼以外にあったのかもしれない。)
 
 <!--
-*You sure weren’t rich, didn’t live in the city  
+*You sure weren’t rich, didn’t live in the city
  Didn’t whisper sweet nothings, never told me I’m pretty*
 -->
-*あなたにはお金もな、都会ぐらしでもなかった  
- 優しい言葉をかけてくれたこともなく、カワイイとすら言ってくれなかった*  
+*あなたにはお金もなく、都会ぐらしでもなかった
+ 優しい言葉をかけてくれたこともなく、カワイイとすら言ってくれなかった*
  (訳注：Mono Puff の Don't I Have The Right? という曲の冒頭部分)
 
 <!--
@@ -49,7 +49,6 @@ All this by way of saying I received a rather discomfitting feeling when
 to come see her. I asked her about what but she never replied. (She
 later explained that she meant to but it just got behind.)
 -->
-これらは
 
 Worried, I asked a few people about what [unnamed authority figure] did.
 “Have you committed any crimes recently?” asked one. “Not that I know
@@ -175,3 +174,7 @@ and walk away. After a few seconds I realize what he’s referring to —
 the dorm passed out surveys for things like “funniest guy” and so on and
 announced the results in a *Family Feud*-style gameshow last night.
 Maybe I have more friends than I think.
+
+心配になったので、その「某関係者」がどういう人なのか周りに聞いてみた。「最近なんか法に触れるようなことした？」と尋ねられたので、「いや、思い当たる節はないけど。」と答えた。「ひょっとして、夢遊病で夜な夜な人を殺してまわってるのか？」いや、だとしたらどうやって死体を処理してる？湖はもう干上がっちゃってるし！もう一人、いつもポジティブなやつは、絶対いい話だよと主張した。「わざわざ彼女に悪い話を伝えさせないでしょ。いい話以外ありえないよ。」と。真に受けてはいなかったけど。
+
+話し合いの場に出向いてみると、there was a different disposition. 女の子が大声で叫んでいるのが聞こえてきたかと思えば、彼女は付き合ってる男性を平手打ちしていた。どうも、その男性は彼女を騙していたっぽい。そいつはそれをすごく後悔してる様子だった。事故だったんだよ、いつものことじゃないんだ、君のことが大好きだよと訴えた。
