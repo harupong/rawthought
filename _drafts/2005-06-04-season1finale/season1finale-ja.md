@@ -80,7 +80,7 @@ behavior,” she began. Oh, this wasn’t going to be good.
 *I cried when you left me,\
  now I’m wondering when you’ll make it all up to me?*
 
-She said she’d been tipped off by my IHUM TF(訳注：http://www.stanforddaily.com/2012/03/09/farewell-to-ihum/), which was odd, since we’d
+She said she’d been tipped off by my IHUM TF, which was odd, since we’d
 just had a long talk a week ago or so and I thought we’d worked
 everything out. Not that there really was a whole lot to work out.
 Actually, that talk probably just made it worse.
@@ -188,5 +188,21 @@ Maybe I have more friends than I think.
 
 * あなたにフラレて大泣きしたわ
   さあ、いつになったら埋め合わせしてもらえるのかしら？*
+
+IHUM TF から知らされたのだけど、と彼女は切り出した。つじつまが合わない話だ。というのも、一週間ほど前にIHUM TF とはじっくり話し合ったばかりで、全て片がついたはずだった。そもそも、片をつけないといけないことがそれほど多かったわけでもないし。それに、あの話し合いのせいで、状況は多分悪くなっただろうし。
+
+ともかく、彼女は自分で色々と調べたようで、その結果を教えてくれた。
+
+- 大学への願書から、僕の学歴がホームスクーリングであることを調べていた。そこから、僕が「孤立してる、同級生と距離をおいている」であろうと考えていた。
+
+- 学生寮の Residence Dean と話をしていた。[僕がシャイすぎて、ファイルキャビネットを動かすときの手伝いを誰にも頼めなかった](http://www.aaronsw.com/weblog/001421)ことを聞き出していた。
+
+- もう一つ(よくそこまで聞き出したものだ。)、「付き合っていた若い女性」を [誹謗中傷するようなブログを書いていた](http://www.aaronsw.com/weblog/001641)ことも聞き出していた。
+
+- The TF の話だと、僕が教室でうっかり口を滑らせたことがあったらしい。本当に見に覚えがないのだけど、いかにもありえそうな話だ。
+
+- The TF は更に、僕が彼女の目の前に突然現れて「ワッ！」と驚かしたことがあると言っていたようだ。
+
+- また、The TF は、「あの子はレベルの低い学校に行っていた」と僕が話していて、彼女の頭の良さも疑ってかかるべきと主張していた、と発言していた。
 
 
